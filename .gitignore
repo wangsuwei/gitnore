@@ -1,0 +1,7 @@
+#忽略.in 文件
+
+*.in
+
+#忽略node_modules
+
+node_modeules
